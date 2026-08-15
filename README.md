@@ -86,7 +86,7 @@ I am a BS Computer Science student building my foundation in programming, proble
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=bilal-dev-0x&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Bilal's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-dev-0x&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-dev-0x&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=swot&hide=Kotlin" alt="Top languages" />
 </p>
 
 <p align="center">

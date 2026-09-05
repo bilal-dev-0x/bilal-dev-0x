@@ -1,84 +1,123 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=190&section=header&text=Bilal%20Aslam&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BSCS%20Student%20%7C%20Python%20Learner%20%7C%20Future%20AI%2FML%20Developer&descSize=15&descAlignY=55" alt="Bilal Aslam profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=190&section=header&text=Bilal%20Aslam&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Python%20Developer%20%7C%20Building%20AI%20Tools&descSize=15&descAlignY=55" alt="Bilal Aslam profile banner" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/bilal-dev-0x">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+Python+projects+step+by+step;Learning+AI%2FML+through+real+practice;Turning+confusion+into+clean+code" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+real+Python+projects;Exploring+AI+and+LLM-powered+applications;Debugging%2C+shipping%2C+and+learning+in+public" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bilal-dev-0x&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/bilal-dev-0x?label=Followers&style=for-the-badge&color=7C3AED" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Focus-Python%20%2B%20AI%2FML-0EA5E9?style=for-the-badge" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Status-Learning%20In%20Public-22C55E?style=for-the-badge" alt="Learning in public badge" />
+  <img src="https://img.shields.io/badge/Focus-Python%20%2B%20AI%20Apps-0EA5E9?style=for-the-badge" alt="Focus badge" />
 </p>
 
 ---
 
 ## About Me
 
-I am a BS Computer Science student building my foundation in programming, problem solving, and the AI / ML path. My current mission is simple: learn deeply, build projects, improve the code, and keep leveling up one commit at a time.
+I'm **Bilal Aslam**, a Computer Science student learning by building increasingly ambitious projects.
 
-<table>
-  <tr>
-    <td><b>Current Track</b></td>
-    <td>Python fundamentals, OOP, data handling, and AI / ML basics</td>
-  </tr>
-  <tr>
-    <td><b>Building</b></td>
-    <td>CLI projects, automation scripts, small AI tools, and portfolio projects</td>
-  </tr>
-  <tr>
-    <td><b>Mindset</b></td>
-    <td>Practice first, polish next, consistency always</td>
-  </tr>
-  <tr>
-    <td><b>Goal</b></td>
-    <td>Become a strong Python and AI / GenAI developer</td>
-  </tr>
-</table>
+My work has moved beyond beginner exercises into **multi-module Python systems, AI-powered applications, structured debugging tools, APIs, desktop interfaces, and real project architecture**.
+
+- 🔭 **Currently building:** AI-assisted developer tools
+- 🐍 **Main language:** Python
+- 🧠 **Exploring:** LLM APIs, debugging workflows, backend architecture, and GenAI applications
+- 🛠️ **Learning by doing:** build → break → debug → improve → ship
+- 🎯 **Goal:** Become a strong Python/AI developer who can turn ideas into working products
+
+> My portfolio is basically a laboratory where innocent Python code is released into the wild and observed under extreme debugging conditions. 🧪🐍
 
 ---
 
-## Tech Toolbox
+## Current Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" alt="Tech stack icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=flat-square" alt="AI ML" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,git,github,vscode" alt="Tech stack icons" />
 </p>
 
 ---
 
-## Learning Roadmap
+## 🚀 Featured Projects
 
-| Stage | Focus | Status |
-|---|---|---|
-| 01 | Python basics, functions, loops, files | <img src="https://img.shields.io/badge/Active-22C55E?style=flat-square" alt="Active" /> |
-| 02 | OOP, clean code, debugging | <img src="https://img.shields.io/badge/Building-2563EB?style=flat-square" alt="Building" /> |
-| 03 | NumPy, Pandas, Matplotlib | <img src="https://img.shields.io/badge/Next-F59E0B?style=flat-square" alt="Next" /> |
-| 04 | Machine Learning foundations | <img src="https://img.shields.io/badge/Soon-7C3AED?style=flat-square" alt="Soon" /> |
-| 05 | GenAI apps and API projects | <img src="https://img.shields.io/badge/Target-0EA5E9?style=flat-square" alt="Target" /> |
+### 🟣 [RAZE Debug Mentor](https://github.com/bilal-dev-0x/RAZE-Debug-Mentor)
+
+**Evidence-driven debugging mentor for Python-first development.**
+
+RAZE executes submitted code, captures runtime evidence, guides the user through **two focused diagnostic questions**, and then produces a structured root-cause explanation with corrected code.
+
+**Highlights**
+- Real Python execution evidence and traceback capture
+- FastAPI backend with session isolation
+- Multi-provider AI failover: Gemini → OpenRouter → Groq
+- Deterministic local fallback when AI providers are unavailable
+- Structured debugging workflow instead of generic chatbot answers
+- Regression tests for debugging patterns and API behavior
+
+**Stack:** Python · FastAPI · Jinja2 · Vanilla JavaScript · Gemini · OpenRouter · Groq
 
 ---
 
-## Featured Projects
+### 🧠 [MindReader AI](https://github.com/bilal-dev-0x/MindReader-AI)
 
-| Project | Label | What It Shows |
-|---|---|---|
-| [Jarvis AI Virtual Assistant](https://github.com/bilal-dev-0x/Jarvis-AI-Virtual-Assistant) | <img src="https://img.shields.io/badge/Featured-AI%20Assistant-7C3AED?style=flat-square" alt="AI Assistant" /> | Python assistant concepts, automation ideas, and AI-style interaction |
-| [Number Guessing Game](https://github.com/bilal-dev-0x/Number-guessing-game) | <img src="https://img.shields.io/badge/Practice-CLI%20Game-2563EB?style=flat-square" alt="CLI Game" /> | Loops, conditions, user input, and basic logic |
-| [Snake Water Gun Game](https://github.com/bilal-dev-0x/Snake-water-gun-Game) | <img src="https://img.shields.io/badge/Practice-Python%20Logic-22C55E?style=flat-square" alt="Python Logic" /> | Random choices, decisions, and beginner game structure |
-| [Random Fake Headline Generator](https://github.com/bilal-dev-0x/Random-Fake-Headline-Generator) | <img src="https://img.shields.io/badge/Project-Text%20Generator-F59E0B?style=flat-square" alt="Text Generator" /> | String handling, randomization, and simple content generation |
+**AI-powered personality scanner with a modern desktop GUI and CLI.**
+
+Users answer behavioral scenarios and Gemini generates a playful personality breakdown with trait scores, observations, and roast-heavy results.
+
+**Highlights**
+- Google Gemini integration
+- CustomTkinter desktop GUI
+- Rich-powered terminal interface
+- Modular OOP architecture
+- Background AI calls to keep the GUI responsive
+- Automatic timestamped report saving
+
+**Stack:** Python · Gemini API · CustomTkinter · Rich · OOP
+
+---
+
+### 💳 [CrediSys — Loan Management System](https://github.com/bilal-dev-0x/CrediSys-Loan-Management-System)
+
+**A terminal-based business management system built from scratch in Python.**
+
+CrediSys manages customers, loan plans, reducing-balance repayment schedules, payments, overdue tracking, analytics, logging, and AI-assisted features.
+
+**Highlights**
+- Multi-module Python architecture
+- Real reducing-balance EMI calculations
+- Customer and loan validation
+- Payment and overdue tracking
+- JSON-based persistence
+- Business analytics and growth snapshots
+- Gemini-powered internal assistant
+
+**Stack:** Python · JSON · Gemini API · python-dotenv · python-dateutil
+
+---
+
+## Other Projects
+
+| Project | What I Built |
+|---|---|
+| [Jarvis AI Virtual Assistant](https://github.com/bilal-dev-0x/Jarvis-AI-Virtual-Assistant) | Early exploration of Python automation and AI-assistant concepts |
+| [Random Fake Headline Generator](https://github.com/bilal-dev-0x/Random-Fake-Headline-Generator) | Text generation and Python logic practice |
+| [Number Guessing Game](https://github.com/bilal-dev-0x/Number-guessing-game) | Core programming logic, loops, conditions, and user interaction |
+| [Snake Water Gun Game](https://github.com/bilal-dev-0x/Snake-water-gun-Game) | Randomization, decisions, and game logic |
+
+---
+
+## 📈 Current Learning Direction
+
+Python Fundamentals → OOP + Clean Code → Real Multi-Module Projects → APIs + FastAPI + AI Integration → Developer Tools + LLM Applications → Machine Learning Foundations + Advanced GenAI
+
+### Right now, I'm focusing on
+
+- Building production-style Python projects
+- Debugging and understanding real code failures
+- Backend architecture and APIs
+- LLM integrations and AI provider failover
+- Writing cleaner, more maintainable code
+- Moving from "I made a project" to "I engineered a system"
 
 ---
 
@@ -99,14 +138,15 @@ I am a BS Computer Science student building my foundation in programming, proble
 
 ---
 
-## Current Focus
+## Current Status
 
-```text
-Python Basics -> OOP -> Data Analysis -> Visualization -> Machine Learning -> GenAI
-```
+**Status:** Building 🚀  
+**Primary Weapon:** Python 🐍  
+**Current Boss Fight:** Better architecture + harder projects 👾  
+**Special Ability:** Turning bugs into portfolio features
 
 <p align="center">
-  <b>Learning every day. Building in public. Slowly turning beginner code into real developer skill.</b>
+  <b>Build. Break. Debug. Understand. Improve. Ship. Repeat.</b>
 </p>
 
 <p align="center">
